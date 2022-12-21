@@ -1,3 +1,5 @@
+# Welcome 🧐
+
 <img src="https://img.shields.io/badge/H-FF0000?style=for-the-badge&logo=C%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/E-FF0000?style=for-the-badge&logo=Unity&logoColor=white" /><img src="https://img.shields.io/badge/L-FF0000?style=for-the-badge&logo=C Sharp&logoColor=white" /><img src="https://img.shields.io/badge/L-FF0000?style=for-the-badge&logo=Jordan&logoColor=white" /><img src="https://img.shields.io/badge/O-FF0000?style=for-the-badge&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/<3-FF0000?style=for-the-badge&logo=Wolfram&logoColor=white" />
 
 <img src="https://img.shields.io/badge/M-FFA500?style=for-the-badge&logo=C%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/Y-FFA500?style=for-the-badge&logo=Unity&logoColor=white" /><img src="https://img.shields.io/badge/-FFA500?style=for-the-badge&logo=C Sharp&logoColor=white" /><img src="https://img.shields.io/badge/-FFA500?style=for-the-badge&logo=Jordan&logoColor=white" /><img src="https://img.shields.io/badge/-FFA500?style=for-the-badge&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/-FFA500?style=for-the-badge&logo=Wolfram&logoColor=white" />
@@ -11,3 +13,7 @@
 <img src="https://img.shields.io/badge/I-0000FF?style=for-the-badge&logo=C%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/S-0000FF?style=for-the-badge&logo=Unity&logoColor=white" /><img src="https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=C Sharp&logoColor=white" /><img src="https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=Jordan&logoColor=white" /><img src="https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=Wolfram&logoColor=white" />
 
 <img src="https://img.shields.io/badge/G-FF00FF?style=for-the-badge&logo=C%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/L-FF00FF?style=for-the-badge&logo=Unity&logoColor=white" /><img src="https://img.shields.io/badge/E-FF00FF?style=for-the-badge&logo=C Sharp&logoColor=white" /><img src="https://img.shields.io/badge/B-FF00FF?style=for-the-badge&logo=Jordan&logoColor=white" /><img src="https://img.shields.io/badge/-FF00FF?style=for-the-badge&logo=Spring&logoColor=white" /><img src="https://img.shields.io/badge/-FF00FF?style=for-the-badge&logo=Wolfram&logoColor=white" />
+
+### Dont't forget to follow my telegram
+
+[![Telegram](https://img.shields.io/badge/десептиконы-00CED1?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PumpkinScentedOstrich)
